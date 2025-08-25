@@ -577,13 +577,10 @@ copies or substantial portions of the Software.
 
 ### Community
 - **Website**: [https://finsoc.dev](https://finsoc.dev)
-- **Discord**: [Join our community](https://discord.gg/finsoc)
-- **Twitter**: [@FinSocDev](https://twitter.com/finSocdev)
-- **LinkedIn**: [FinSoc Team](https://linkedin.com/company/finsoc)
 
 ### Business Inquiries
-- **Email**: business@finsoc.dev
-- **Phone**: +91-XXXX-XXXXX
+- **Email**: ash56pokemon@gmail.com
+- **Phone**: +91-7349130318
 
 ---
 
